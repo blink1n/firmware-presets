@@ -3,7 +3,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
-#$ STATUS: OFFICIAL
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: Beeper, arm angle, master
 #$ AUTHOR: UAPFPV (Christian Waagaard)
 
