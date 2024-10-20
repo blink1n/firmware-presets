@@ -19,9 +19,9 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
 #$ DESCRIPTION: 
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_1.png" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_2.png" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_3.png" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_1.png" />
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_2.png" />
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_3.png" />
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_bitmask = 51199
