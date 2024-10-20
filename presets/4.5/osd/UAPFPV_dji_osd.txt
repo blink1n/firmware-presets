@@ -9,7 +9,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: 
+#$ DESCRIPTION: My dji OSD setup
 #$ DESCRIPTION: 
 #$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
 
@@ -65,5 +65,4 @@ set osd_profile = 2
 set osd_displayport_device = MSP
 set osd_canvas_width = 60
 set osd_canvas_height = 22
-set debug_mode = GYRO_SCALED
 set vcd_video_system = HD

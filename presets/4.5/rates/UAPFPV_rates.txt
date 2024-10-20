@@ -2,14 +2,14 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
-#$ CATEGORY: OTHER
+#$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Controller, rates, name
 #$ AUTHOR: UAPFPV (Christian Waagaard)
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: 
+#$ DESCRIPTION: My rates and some controller settings
 #$ DESCRIPTION: 
 #$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
 

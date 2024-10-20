@@ -4,11 +4,17 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: Beeper, arm angle, master
+#$ KEYWORDS: Beeper, arm angle, master, debug mode
 #$ AUTHOR: UAPFPV (Christian Waagaard)
 
 #$ PARSER: MARKED
 
+#$ DESCRIPTION: Default settings for me.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Arm angle
+#$ DESCRIPTION: FPV camera angle
+#$ DESCRIPTION: beeper and beacon
+#$ DESCRIPTION: debug mode
 #$ DESCRIPTION: 
 #$ DESCRIPTION: 
 #$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
@@ -49,3 +55,5 @@ beeper -RC_SMOOTHING_INIT_FAIL
 
 # beacon
 beacon RX_SET
+
+set debug_mode = GYRO_SCALED
