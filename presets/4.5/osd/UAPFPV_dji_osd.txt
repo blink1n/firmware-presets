@@ -11,7 +11,7 @@
 
 #$ DESCRIPTION: 
 #$ DESCRIPTION: 
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION:  <img src="https://avatars.githubusercontent.com/u/16358205" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 
 #$ INCLUDE: presets/4.4/osd/defaults.txt
