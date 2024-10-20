@@ -9,9 +9,13 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: My dji OSD setup
+
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: 
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: My dji OSD setup
 
 
 #$ INCLUDE: presets/4.4/osd/defaults.txt

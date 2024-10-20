@@ -9,15 +9,23 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: Default settings for me.
-#$ DESCRIPTION: 
-#$ DESCRIPTION: Arm angle
-#$ DESCRIPTION: FPV camera angle
-#$ DESCRIPTION: beeper and beacon
-#$ DESCRIPTION: debug mode
+
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
 #$ DESCRIPTION: 
 #$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/logo.jpg" style="max-width: 50%; margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: Default settings for me.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: Arm angle
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: FPV camera angle
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: beeper and beacon
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: debug mode
+
 
 
 # master
