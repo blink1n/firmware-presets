@@ -21,11 +21,11 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: 
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_1.png" style="max-width: 100%; display: block;"/>
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_1.jpg" style="max-width: 100%; display: block;"/>
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_2.png" style="max-width: 100%; display: block;"/>
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_2.jpg" style="max-width: 100%; display: block;"/>
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_3.png" style="max-width: 100%; display: block;"/>
+#$ DESCRIPTION:  <img src="https://raw.githubusercontent.com/blink1n/firmware-presets/refs/heads/master/img/osd_profile_3.jpg" style="max-width: 100%; display: block;"/>
 #$ DESCRIPTION: <br>
 
 #$ OPTION BEGIN (UNCHECKED): reset osd
